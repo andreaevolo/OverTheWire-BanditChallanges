@@ -1,4 +1,4 @@
-## Level 1 solution
+## Level 0 -> Level 1 solution
 First step use the cd command to move to the home directory:
 ```console
 bandit0@bandit:~$ cd /home
