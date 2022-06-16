@@ -39,4 +39,4 @@ Looks like the -a option suits or needs!
 bandit3@bandit: ~$ ls -a
 . .. .hidden
 ```
-perfect, we have found or hidden file, now simply open it and get your password.
+perfect, we have found our hidden file, now simply open it and get your password.
