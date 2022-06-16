@@ -1,4 +1,4 @@
-## Minimal Note Taking App
+## Level 6 -> Level 7 solution
 In this challenge we have to locate the password which is stored somewhere unknown on the server.
 The only info we have is the file size, the file owner and the group owners.
 We'll use again the find command in combination with the grep command to filter out the search result.
