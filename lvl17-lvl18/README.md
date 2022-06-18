@@ -20,6 +20,6 @@ diff -u passwords.new passwords.old
  WCETP1i90TZJSbKZ24ly5rhNKva8sSdy
  2o4oJXwgWyWIdKb9WpNDFUcWXlcghSzR
 ```
-We can notice in our output that some lines are preceded by a `-` and a `+` char, the minus symbol rappresent the lines that have been removed and plus symbol the one that are added.
-Given this information we can grab the line that have been remove and use it to access the next level.
+We can notice in our output that some lines are preceded by a `-` and `+` char, the minus symbol rappresent the lines that have been removed and the plus symbol the one that have been added.
+Given this information we can grab the line that have been removed and use it to access the next level.
 
